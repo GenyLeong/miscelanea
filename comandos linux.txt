@@ -1,0 +1,7 @@
+--fork --syslog para que se ejecute en segundo plano. 
+
+(nombredelacarpeta)path-- (direccion) para que guarde automaticamente los archivos.
+
+-p para crear dos archivos a la vez
+sudo chown para dar permisos de usuario
+jade --watch jade/sections/contact.jade --out ../ -P
