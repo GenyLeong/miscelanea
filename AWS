@@ -1,0 +1,6 @@
+SAAS
+	AWS amazon web server 
+	EC2(instancias) ISO(imagen de cualquier sistema operativo), AMI(amazon)
+		IP elasticas (se crean y eliminan segun requerimiento)
+		IP publicas 
+

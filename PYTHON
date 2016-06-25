@@ -1,0 +1,12 @@
+Patron MVC 
+
+Modelo/Vista/Controlador. Más usado por aplicaciones web.
+
+Modelo.Gestiona la data y la lógica más importante. En el modelo definimos las reglas para acceder o modificar la data. 
+Vista. Presenta la data. 
+
+Los servidores trabajan principalmente por la base de datos.
+
+Controlador. Recibe los requests del usuario y recursos necesarios para utilizarlos.EL controlador se encarga de llamar al modelo y/o vista para la accion.Incluye la lógica de acceso a la data.
+
+Controlador usa blueprints

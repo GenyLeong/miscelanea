@@ -1,0 +1,40 @@
+192.168.0.0/16
+8   8   8 8
+192.168.1.0
+192.168.0.1
+
+192.167.1.0/24
+8   8   8 8
+192.167.1.2
+192.167.1.168
+192.167.1.5
+192.167.1.1
+192.167.1.254
+192.167.1.255
+
+11111111 11111111 11111111 00000000
+
+2^8	   2^8		2^8	2^0
+255
+
+192.168.0.1
+
+ifconfig saco la IP y veo que es 24. Si es 16, el broadcast 
+
+sudo arping -I wlp2s0 -c 3 192.168.1.1(numero de router)
+
+TERMINATOR:
+
+Ctrl-Shift-E: will split the view vertically.
+
+Ctrl-Shift-O: will split the view horizontally.
+
+Ctrl-Shift-P: will focus be active on the previous view.
+
+Ctrl-Shift-N: will focus be active on the next view.
+
+Ctrl-Shift-W: will close the view where the focus is on.
+
+Ctrl-Shift-Q: will exit terminator.
+
+F11: will make terminator go fullscreen.

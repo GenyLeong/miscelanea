@@ -1,0 +1,5 @@
+droplet servidor virtual. Lo mas valioso es la memoria RAM. 
+Usuario recurrente:clic a la vez. 
+Ruta por defecto de apache: /var/www/html/index.html
+No usar mayusculas en web
+CDN: Contenedor delivery network. POner los archivos en varios servidores para que se descarguen en paralelo. 

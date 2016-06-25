@@ -1,0 +1,21 @@
+  	mv Downloads/prettyPhoto_uncompressed_3.1.6.zip Documents
+    	cd Documents
+    	ls
+    	mkdir prettyPhoto
+  	unzip prettyPhoto_uncompressed_3.1.6.zip -d prettyPhoto PARA DESCOMPRIMIR DESDE EL SISTEMA.
+
+	pwd//para saber donde estás.
+
+	jade -w assets/jade --out ../Problema -P watch de jade y -P para indentar el output en la carpeta "problema"
+
+	sass sass/main.scss css/main.css
+	sass --watch sass/main.scss:css/main.css //para crear el sass en la carpeta assets
+
+	sudo dnf -y update//actualizar el sistema
+
+Para ejecutar un archivo .bin hay que crear una carpeta en el lugar donde queremos que se instale y hacemos:
+
+mv ~/Downloads/ibm-4.4.2.0-node-v4.4.2-linux-x86.bin ./
+ 2159  ls
+ 2162* chmod +x ibm-4.4.2.0-node-v4.4.2-linux-x86.bin
+ 2163* sudo ./ibm-4.4.2.0-node-v4.4.2-linux-x86.bin
